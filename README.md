@@ -1,2 +1,3 @@
 # my2ndproject
-Abc
+#Abc
+print("Somya")
